@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil(DjeisoGB)!
 
  <div>
-   <a href="https://github.com/MeliodasBugado">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeliodasBugado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeliodasBugado&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/DjeisoGB">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjeisoGB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjeisoGB&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
